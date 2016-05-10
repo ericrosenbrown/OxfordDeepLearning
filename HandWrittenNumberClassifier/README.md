@@ -1,3 +1,5 @@
+This is a logistic regression implementation for Hand written nubmer classification.
+
 This is code written to do practical3. I have my completed code in digitClassifier.lua, and the template is in practical3.lua
 
 ----------
