@@ -1,0 +1,1 @@
+this is a linear regression implementation for the second practical of the oxford deep learning course. the linear regression predicts how much corn will be produced given a certain amount of fertilizer and pesticides. 
