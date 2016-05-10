@@ -1,6 +1,6 @@
-# Practical 3
-Machine Learning, spring 2015
+This is code written to do practical3. I have my completed code in digitClassifier.lua, and the template is in practical3.lua
 
+----------
 ## Setup
 Setup will be the same as last time in practical 1. Please refer to the [practical 1 repository](https://github.com/oxford-cs-ml-2015/practical1), and run the script as instructed last time.
 
